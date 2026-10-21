@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/air-side-economizer-explainer/
 
+Repository: https://github.com/mizcausevic-dev/air-side-economizer-explainer
+
 ## What this is
 
 An interactive anatomy plate for Air-Side Economizer. Play, scrub, or jump the five stages. The same frame always draws the same picture.
